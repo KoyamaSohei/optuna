@@ -127,5 +127,5 @@ Indices and tables
 .. |optunalogo| image:: https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png
   :width: 800
   :alt: OPTUNA
-.. |Open in Colab| image:: https://colab.research.google.com/assets/colab-badge.svg
+.. |Open in Colab| image:: https://colab.research.google.com/assets/colab-badge.png
   :target: http://colab.research.google.com/github/optuna/optuna/blob/master/examples/quickstart.ipynb
